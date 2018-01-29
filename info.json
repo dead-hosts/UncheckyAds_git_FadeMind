@@ -7,5 +7,13 @@
     "list_name": "UncheckyAds.list",
     "name": "UncheckyAds",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-    "stable": "0"
+    "stable": "0",
+    "arguments": [
+        "--travis",
+        "-a",
+        "-ex",
+        "--plain",
+        "--split",
+        "-t 2"
+    ]
 }
