@@ -1,13 +1,4 @@
 {
-    "autosave_minutes": "10",
-    "commit_autosave_message": "Test of the UncheckyAds",
-    "currently_under_test": "0",
-    "days_until_next_test": "2",
-    "last_test": "1517213988",
-    "list_name": "UncheckyAds.list",
-    "name": "UncheckyAds",
-    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-    "stable": "0",
     "arguments": [
         "--travis",
         "-a",
@@ -16,5 +7,14 @@
         "--split",
         "-t 2",
         "--share-logs"
-    ]
+    ],
+    "autosave_minutes": "10",
+    "commit_autosave_message": "Test of the UncheckyAds",
+    "currently_under_test": "0",
+    "days_until_next_test": "2",
+    "last_test": "1517490521",
+    "list_name": "UncheckyAds.list",
+    "name": "UncheckyAds",
+    "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
+    "stable": "0"
 }
