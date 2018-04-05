@@ -1,6 +1,8 @@
 {
     "arguments": [
         "--commit-autosave-message \"[Autosave] Test of the UncheckyAds\"",
+        "--commit-results-message \"[Results] Test of the UncheckyAds\"",
+        "--commit-autosave-message \"[Autosave] Test of the UncheckyAds\"",
         "--commit-results-message \"[Results] Test of the UncheckyAds\""
     ],
     "clean_list_file": "clean.list",
@@ -8,7 +10,7 @@
     "commit_autosave_message": "Test of the UncheckyAds",
     "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1522963480",
+    "last_test": "1522964236",
     "list_name": "UncheckyAds.list",
     "name": "UncheckyAds",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
