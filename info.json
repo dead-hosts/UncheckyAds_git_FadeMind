@@ -5,10 +5,12 @@
     "commit_autosave_message": "Test of the UncheckyAds",
     "currently_under_test": "0",
     "days_until_next_test": "2",
-    "last_test": "1526738956",
+    "last_test": "1526748472",
     "list_name": "UncheckyAds.list",
     "name": "UncheckyAds",
+    "ping": [
+        "FadeMind"
+    ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-    "stable": "0",
-    "ping":["FadeMind"]
+    "stable": "0"
 }
