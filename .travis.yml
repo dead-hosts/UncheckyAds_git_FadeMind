@@ -1,6 +1,6 @@
 env:
   global:
-    - secure: J9WXyAcyEtEibLoFgozGQ+yt6HEO702yAFwP5AuG+mE8qMMxIY0clQrC6MTDp33nPuKp1I8nvFnr82T+MfENZ9FVAFKQYiQ1fcAliMdPw5yTZsgI3oBJ3VX1yeUYqq2FuZxOOuqbIkz0nOtldeq6xeebgZqs8j40za0mECjSLvCHI0Yhfo6jOWJNY8+U1qTK7Xnq1kBYhrXNBIS11bIuCh1xciWghzyXpmSTTrlrLPCYOK21XoHTXLKGjvwEwSxisewNMIX+RFdR8EVp2YaZEIdEDeTW4AdYtfO8UdoBr8Cqio9pQa6ny/MMR8Uaz5JN04luVDkJXAmFzbgfyeYIs+RiMN9I5OCUqW+BzWR3x3o/K6I4jRGDrFpbhNzADuTsT4oFDawiw5g8nxqLxce8T70UAxGhex309QerKD1/PRhpuTXhVqn7GYpA3jwx3AdpuucZ4OOnTXDPZwIIEHlGGlcuQzID02undtwCt9BebGfWBEnGy1LWp01QYwp97SpqvqyWu6fR3tGPtfozo+TeeCclGKVZBRX5WXTxdkNOxmLa7WGkvvjJ+NZmsMAFhwWybU8jB6Z8e6pzkfpIP+JfK1iF5sZZuG0+9ADN+XWJ9T9FxNywYpBihbTC00ySYkf0JpZFxp6IMGxDKdJRHtgVX+vxHUzX9ojevsTqHpEKa/4=
+    - secure: VRuquq4cRNCx91CGMMvYb6KZ7hpWHMfM+sY7YZHfSZ3ZiQucEfFPLKIwhM8lJlJSME0sCaMYPC2H7VLDqfzClsNUiq4+vnLW28VuXTap+Dnat9Fl7h2whbwK1J10VHHqAThM7qCiVnz0z40qB3PDveWhHyTkrCXMUw37QOpLrkpWyQaSVGNGqIA+sNBYn7tlCN7dQQu8aj4bk84/8arUnELDtl4i3ucVVlH9bOE/LWp6Q1T5STH+9y/6O5JiTuGQ3HuzD7Fx4q2vE3PJ+3fDGKRY1sKcIsqtF/ZREl2KlJAD48+//DD9cUNrI/g4nKDkEKHnOTqX19KmEVq94YUAyfX0A3pcoNeMumGQanIBSTT8reORGRoL4SklvXVtpXqktKoVcHaoqqKgnbGIEmFVJUtHo2Y99qDm63r5kSy7V1vlU3EaBuTbgSOdFU6dZ0O6DZZxhVs+M15WT5Q4QpDOj9GW1q+Fnm2qDEaOtbVhix928j2SFaaMrhh4L1gCyCtTrTyyCdTytNRk0pCpnTX6UMYSJy+tiyLTQnGDW+XN6A+CD7GJIaWtE7CwvHvSt+ZREv0DrXE5dbS6TFu3igONG+Wm/pHPDC4fGdpi3j1mUtskhoazRekZV9QqZAFQjETNMvc4+Yuu+9bNnzraKhd4lTUGoLGQFuFlacern/mnax0=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: dead-hosts@funilrys.com
     - TRAVIS_REPO_SLUG: dead-hosts/UncheckyAds_git_FadeMind
@@ -20,12 +20,12 @@ cache:
 
 sudo: required
 
-before_install:
+install:
+  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble
   - sudo apt-get -y install dos2unix
-  - pip3 install colorama
 
 script:
-  - pip3 install git+https://github.com/funilrys/PyFunceble.git@dev#egg=PyFunceble && python3 ./update_me.py
+  - python3 ./update_me.py
 
 notifications:
   on_success:   change
