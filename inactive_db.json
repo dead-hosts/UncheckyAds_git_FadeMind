@@ -1,17 +1,5 @@
 {
     "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/UncheckyAds.list": {
-        "1550507177": [
-            "cdn.appround.biz",
-            "cdn.download.sweetpacks.com",
-            "cdn.insta.playbryte.com",
-            "cdn.msdwnld.com",
-            "cdn.mypcbackup.com",
-            "inno.bisrv.com",
-            "installer.betterinstaller.com",
-            "installer.filebulldog.com",
-            "nsis.bisrv.com",
-            "tracking.opencandy.com.s3.amazonaws.com"
-        ],
         "to_test": []
     }
 }
