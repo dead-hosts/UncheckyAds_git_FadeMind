@@ -2,20 +2,20 @@
     "currently_under_test": false,
     "custom_pyfunceble_config": {},
     "days_until_next_test": 0.0,
-    "finish_datetime": "2019-11-06T18:35:57.651734",
-    "finish_timestamp": 1573065357.651734,
-    "last_download_datetime": "2019-11-06T18:35:47.350879",
-    "last_download_timestamp": 1573065347.350879,
-    "latest_part_finish_datetime": "2019-11-06T18:35:57.651734",
-    "latest_part_finish_timestamp": 1573065357.651734,
-    "latest_part_start_datetime": "2019-11-06T18:35:47.443071",
-    "latest_part_start_timestamp": 1573065347.443071,
+    "finish_datetime": "2019-11-07T10:08:40.488904",
+    "finish_timestamp": 1573121320.488904,
+    "last_download_datetime": "2019-11-07T10:08:36.463447",
+    "last_download_timestamp": 1573121316.463447,
+    "latest_part_finish_datetime": "2019-11-07T10:08:40.488904",
+    "latest_part_finish_timestamp": 1573121320.488904,
+    "latest_part_start_datetime": "2019-11-07T10:08:36.547931",
+    "latest_part_start_timestamp": 1573121316.547931,
     "name": "UncheckyAds_git_FadeMind",
     "own_management": false,
     "ping": [
         "@FadeMind"
     ],
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
-    "start_datetime": "2019-11-06T18:35:47.438522",
-    "start_timestamp": 1573065347.438522
+    "start_datetime": "2019-11-07T10:08:36.544545",
+    "start_timestamp": 1573121316.544545
 }
