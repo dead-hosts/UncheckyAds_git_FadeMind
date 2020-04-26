@@ -1,22 +1,19 @@
 {
-    "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/UncheckyAds.list": {
-        "1560705828": {},
-        "1560792391": {},
-        "1560878896": {},
-        "1561051558": {},
-        "1561224720": {},
-        "1561570011": {},
-        "1561657021": {},
-        "1561829923": {},
-        "1562003125": {},
-        "1562177180": {},
-        "1562348280": {},
-        "1562521872": {}
-    },
+    "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/UncheckyAds.list": {},
     "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/domains.list": {
-        "1587208073": {
-            "inno.bisrv.com": "INACTIVE",
-            "nsis.bisrv.com": "INACTIVE"
+        "inno.bisrv.com": {
+            "included_at_epoch": 1587208073.0,
+            "included_at_iso": "2020-04-18T11:07:53",
+            "last_retested_at_epoch": 1587934931.125386,
+            "last_retested_at_iso": "2020-04-26T21:02:11.125386",
+            "status": "INACTIVE"
+        },
+        "nsis.bisrv.com": {
+            "included_at_epoch": 1587208073.0,
+            "included_at_iso": "2020-04-18T11:07:53",
+            "last_retested_at_epoch": 1587934931.128346,
+            "last_retested_at_iso": "2020-04-26T21:02:11.128346",
+            "status": "INACTIVE"
         }
     }
 }
