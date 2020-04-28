@@ -7,7 +7,6 @@ env:
     -   secure: QndFozvCApGckRQdmd/UkLvTC2RMLSh7BIMurJhPpziwguFAxeYmZs6BsTQjU4zAGJ/QNfQma0qgrI7KuWc1hwJXlYXWeQlDEq7dKNrDgju9WZehBwDz7cIBbx2j9wgLgghuyRWNQ7/HCo4nBvKZY87aSWYTUq0/oxHmcYdjCa5wUngQVLbBJH6bljxEYMMKg1T9pJ1ecQKBtsdL0de1+O0U5MQxCj7licn1IaAEBcIhUP/90o/aSKCS7p7o9WQDoBsUQzPHT/DQ7O3Yc+H6GXl4+vNjj0JbXjiBS43a4zn5pflRVIRylo0PN6IuYE5YOmUGD2KRqv+kH0L2RCCtOcxfxmaC1TXmSB3W4VTNMhPzopLoq8Ma5TBR467aPy4sjPDKMebNnlUfdK4oorRw5y8o2vwRdGH9B005RJlt35B2pol1YWphui3id+gNkiX5xz7DrKzZfY3zQ0oYYdpsWb6lbWnAnzLKWrB7eF0nkfvDxY0XdvU1qRAdnmMS/koG8uEcwOvQ3UymWY5OsIqJE1GDxY4qOAd5hMWWE4VfpVy2P/dnRCq8GTb+C6GTmPyt7GLppS30aJ/sr3O0tRP009SRHMGmGkq51s5jQltzGgoRRX6kNHF1Sa56XZRDEbG5RicKh2A8UAW/Q5Tp6l4bMTSgSYr82q5JgjfAPHgmEV0=
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: dead-hosts/UncheckyAds_git_FadeMind
     -   GIT_BRANCH: master
     matrix:
     - PYTHON_VERSION="3.7.3"
@@ -30,7 +29,7 @@ notifications:
         on_failure: always
         on_success: never
         recipients:
-        - dead-hosts@funilrys.com
+        - dead-hosts@outlook.com
 os:
 - linux
 script:
