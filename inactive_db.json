@@ -1,17 +1,17 @@
 {
     "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/domains.list": {
         "inno.bisrv.com": {
-            "included_at_epoch": 1587208073.0,
-            "included_at_iso": "2020-04-18T11:07:53",
-            "last_retested_at_epoch": 1589488934.373326,
-            "last_retested_at_iso": "2020-05-14T20:42:14.373326",
+            "included_at_epoch": 1589661863.478011,
+            "included_at_iso": "2020-05-16T20:44:23.478011",
+            "last_retested_at_epoch": 1589661863.478011,
+            "last_retested_at_iso": "2020-05-16T20:44:23.478011",
             "status": "INACTIVE"
         },
         "nsis.bisrv.com": {
-            "included_at_epoch": 1587208073.0,
-            "included_at_iso": "2020-04-18T11:07:53",
-            "last_retested_at_epoch": 1589488934.376893,
-            "last_retested_at_iso": "2020-05-14T20:42:14.376893",
+            "included_at_epoch": 1589661863.481436,
+            "included_at_iso": "2020-05-16T20:44:23.481436",
+            "last_retested_at_epoch": 1589661863.481436,
+            "last_retested_at_iso": "2020-05-16T20:44:23.481436",
             "status": "INACTIVE"
         }
     }
