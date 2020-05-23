@@ -3,15 +3,15 @@
         "inno.bisrv.com": {
             "included_at_epoch": 1589661863.478011,
             "included_at_iso": "2020-05-16T20:44:23.478011",
-            "last_retested_at_epoch": 1590142513.731641,
-            "last_retested_at_iso": "2020-05-22T10:15:13.731641",
+            "last_retested_at_epoch": 1590266684.849478,
+            "last_retested_at_iso": "2020-05-23T20:44:44.849478",
             "status": "INACTIVE"
         },
         "nsis.bisrv.com": {
             "included_at_epoch": 1589661863.481436,
             "included_at_iso": "2020-05-16T20:44:23.481436",
-            "last_retested_at_epoch": 1590142513.735909,
-            "last_retested_at_iso": "2020-05-22T10:15:13.735909",
+            "last_retested_at_epoch": 1590266684.853431,
+            "last_retested_at_iso": "2020-05-23T20:44:44.853431",
             "status": "INACTIVE"
         }
     }
