@@ -3,71 +3,71 @@
         "cdn.appround.biz": {
             "included_at_epoch": 1600983821.350381,
             "included_at_iso": "2020-09-24T21:43:41.350381",
-            "last_retested_at_epoch": 1601848126.674126,
-            "last_retested_at_iso": "2020-10-04T21:48:46.674126",
+            "last_retested_at_epoch": 1602020953.176447,
+            "last_retested_at_iso": "2020-10-06T21:49:13.176447",
             "status": "ACTIVE"
         },
         "cdn.download.sweetpacks.com": {
             "included_at_epoch": 1600983821.348413,
             "included_at_iso": "2020-09-24T21:43:41.348413",
-            "last_retested_at_epoch": 1601848126.671943,
-            "last_retested_at_iso": "2020-10-04T21:48:46.671943",
+            "last_retested_at_epoch": 1602020953.174274,
+            "last_retested_at_iso": "2020-10-06T21:49:13.174274",
             "status": "ACTIVE"
         },
         "cdn.insta.playbryte.com": {
             "included_at_epoch": 1600983821.352629,
             "included_at_iso": "2020-09-24T21:43:41.352629",
-            "last_retested_at_epoch": 1601848126.676887,
-            "last_retested_at_iso": "2020-10-04T21:48:46.676887",
+            "last_retested_at_epoch": 1602020953.178794,
+            "last_retested_at_iso": "2020-10-06T21:49:13.178794",
             "status": "ACTIVE"
         },
         "cdn.msdwnld.com": {
             "included_at_epoch": 1600983821.35159,
             "included_at_iso": "2020-09-24T21:43:41.351590",
-            "last_retested_at_epoch": 1601848126.67555,
-            "last_retested_at_iso": "2020-10-04T21:48:46.675550",
+            "last_retested_at_epoch": 1602020953.177659,
+            "last_retested_at_iso": "2020-10-06T21:49:13.177659",
             "status": "ACTIVE"
         },
         "cdn.mypcbackup.com": {
             "included_at_epoch": 1600983821.35369,
             "included_at_iso": "2020-09-24T21:43:41.353690",
-            "last_retested_at_epoch": 1601848126.679343,
-            "last_retested_at_iso": "2020-10-04T21:48:46.679343",
+            "last_retested_at_epoch": 1602020953.180009,
+            "last_retested_at_iso": "2020-10-06T21:49:13.180009",
             "status": "ACTIVE"
         },
         "inno.bisrv.com": {
             "included_at_epoch": 1600983821.35473,
             "included_at_iso": "2020-09-24T21:43:41.354730",
-            "last_retested_at_epoch": 1601848126.678129,
-            "last_retested_at_iso": "2020-10-04T21:48:46.678129",
+            "last_retested_at_epoch": 1602020953.181103,
+            "last_retested_at_iso": "2020-10-06T21:49:13.181103",
             "status": "ACTIVE"
         },
         "installer.betterinstaller.com": {
             "included_at_epoch": 1600983821.35605,
             "included_at_iso": "2020-09-24T21:43:41.356050",
-            "last_retested_at_epoch": 1601848126.681771,
-            "last_retested_at_iso": "2020-10-04T21:48:46.681771",
+            "last_retested_at_epoch": 1602020953.183439,
+            "last_retested_at_iso": "2020-10-06T21:49:13.183439",
             "status": "ACTIVE"
         },
         "installer.filebulldog.com": {
             "included_at_epoch": 1600983821.357436,
             "included_at_iso": "2020-09-24T21:43:41.357436",
-            "last_retested_at_epoch": 1601848126.680619,
-            "last_retested_at_iso": "2020-10-04T21:48:46.680619",
+            "last_retested_at_epoch": 1602020953.18226,
+            "last_retested_at_iso": "2020-10-06T21:49:13.182260",
             "status": "ACTIVE"
         },
         "nsis.bisrv.com": {
             "included_at_epoch": 1600983821.358753,
             "included_at_iso": "2020-09-24T21:43:41.358753",
-            "last_retested_at_epoch": 1601848126.682946,
-            "last_retested_at_iso": "2020-10-04T21:48:46.682946",
+            "last_retested_at_epoch": 1602020953.185971,
+            "last_retested_at_iso": "2020-10-06T21:49:13.185971",
             "status": "ACTIVE"
         },
         "tracking.opencandy.com.s3.amazonaws.com": {
             "included_at_epoch": 1600983821.359926,
             "included_at_iso": "2020-09-24T21:43:41.359926",
-            "last_retested_at_epoch": 1601848126.684585,
-            "last_retested_at_iso": "2020-10-04T21:48:46.684585",
+            "last_retested_at_epoch": 1602020953.184591,
+            "last_retested_at_iso": "2020-10-06T21:49:13.184591",
             "status": "ACTIVE"
         }
     }
