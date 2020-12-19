@@ -1,73 +1,73 @@
 {
     "/home/travis/build/dead-hosts/UncheckyAds_git_FadeMind/domains.list": {
         "cdn.appround.biz": {
-            "included_at_epoch": 1605838614.115331,
-            "included_at_iso": "2020-11-20T02:16:54.115331",
-            "last_retested_at_epoch": 1608246207.085072,
-            "last_retested_at_iso": "2020-12-17T23:03:27.085072",
+            "included_at_epoch": 1608416879.402072,
+            "included_at_iso": "2020-12-19T22:27:59.402072",
+            "last_retested_at_epoch": 1608416879.402072,
+            "last_retested_at_iso": "2020-12-19T22:27:59.402072",
             "status": "ACTIVE"
         },
         "cdn.download.sweetpacks.com": {
-            "included_at_epoch": 1605838614.11189,
-            "included_at_iso": "2020-11-20T02:16:54.111890",
-            "last_retested_at_epoch": 1608246207.082682,
-            "last_retested_at_iso": "2020-12-17T23:03:27.082682",
+            "included_at_epoch": 1608416879.400761,
+            "included_at_iso": "2020-12-19T22:27:59.400761",
+            "last_retested_at_epoch": 1608416879.400761,
+            "last_retested_at_iso": "2020-12-19T22:27:59.400761",
             "status": "ACTIVE"
         },
         "cdn.insta.playbryte.com": {
-            "included_at_epoch": 1605838614.119268,
-            "included_at_iso": "2020-11-20T02:16:54.119268",
-            "last_retested_at_epoch": 1608246207.087527,
-            "last_retested_at_iso": "2020-12-17T23:03:27.087527",
+            "included_at_epoch": 1608416879.404792,
+            "included_at_iso": "2020-12-19T22:27:59.404792",
+            "last_retested_at_epoch": 1608416879.404792,
+            "last_retested_at_iso": "2020-12-19T22:27:59.404792",
             "status": "ACTIVE"
         },
         "cdn.msdwnld.com": {
-            "included_at_epoch": 1605838614.117364,
-            "included_at_iso": "2020-11-20T02:16:54.117364",
-            "last_retested_at_epoch": 1608246207.086406,
-            "last_retested_at_iso": "2020-12-17T23:03:27.086406",
+            "included_at_epoch": 1608416879.403473,
+            "included_at_iso": "2020-12-19T22:27:59.403473",
+            "last_retested_at_epoch": 1608416879.403473,
+            "last_retested_at_iso": "2020-12-19T22:27:59.403473",
             "status": "ACTIVE"
         },
         "cdn.mypcbackup.com": {
-            "included_at_epoch": 1605838614.121315,
-            "included_at_iso": "2020-11-20T02:16:54.121315",
-            "last_retested_at_epoch": 1608246207.089892,
-            "last_retested_at_iso": "2020-12-17T23:03:27.089892",
+            "included_at_epoch": 1608416879.406693,
+            "included_at_iso": "2020-12-19T22:27:59.406693",
+            "last_retested_at_epoch": 1608416879.406693,
+            "last_retested_at_iso": "2020-12-19T22:27:59.406693",
             "status": "ACTIVE"
         },
         "inno.bisrv.com": {
-            "included_at_epoch": 1605838614.123111,
-            "included_at_iso": "2020-11-20T02:16:54.123111",
-            "last_retested_at_epoch": 1608246207.088712,
-            "last_retested_at_iso": "2020-12-17T23:03:27.088712",
+            "included_at_epoch": 1608416879.408154,
+            "included_at_iso": "2020-12-19T22:27:59.408154",
+            "last_retested_at_epoch": 1608416879.408154,
+            "last_retested_at_iso": "2020-12-19T22:27:59.408154",
             "status": "ACTIVE"
         },
         "installer.betterinstaller.com": {
-            "included_at_epoch": 1605838614.126946,
-            "included_at_iso": "2020-11-20T02:16:54.126946",
-            "last_retested_at_epoch": 1608246207.09096,
-            "last_retested_at_iso": "2020-12-17T23:03:27.090960",
+            "included_at_epoch": 1608416879.411583,
+            "included_at_iso": "2020-12-19T22:27:59.411583",
+            "last_retested_at_epoch": 1608416879.411583,
+            "last_retested_at_iso": "2020-12-19T22:27:59.411583",
             "status": "ACTIVE"
         },
         "installer.filebulldog.com": {
-            "included_at_epoch": 1605838614.125014,
-            "included_at_iso": "2020-11-20T02:16:54.125014",
-            "last_retested_at_epoch": 1608246207.092005,
-            "last_retested_at_iso": "2020-12-17T23:03:27.092005",
+            "included_at_epoch": 1608416879.409798,
+            "included_at_iso": "2020-12-19T22:27:59.409798",
+            "last_retested_at_epoch": 1608416879.409798,
+            "last_retested_at_iso": "2020-12-19T22:27:59.409798",
             "status": "ACTIVE"
         },
         "nsis.bisrv.com": {
-            "included_at_epoch": 1605838614.130845,
-            "included_at_iso": "2020-11-20T02:16:54.130845",
-            "last_retested_at_epoch": 1608246207.094562,
-            "last_retested_at_iso": "2020-12-17T23:03:27.094562",
+            "included_at_epoch": 1608416879.414892,
+            "included_at_iso": "2020-12-19T22:27:59.414892",
+            "last_retested_at_epoch": 1608416879.414892,
+            "last_retested_at_iso": "2020-12-19T22:27:59.414892",
             "status": "ACTIVE"
         },
         "tracking.opencandy.com.s3.amazonaws.com": {
-            "included_at_epoch": 1605838614.128841,
-            "included_at_iso": "2020-11-20T02:16:54.128841",
-            "last_retested_at_epoch": 1608246207.093183,
-            "last_retested_at_iso": "2020-12-17T23:03:27.093183",
+            "included_at_epoch": 1608416879.413248,
+            "included_at_iso": "2020-12-19T22:27:59.413248",
+            "last_retested_at_epoch": 1608416879.413248,
+            "last_retested_at_iso": "2020-12-19T22:27:59.413248",
             "status": "ACTIVE"
         }
     }
