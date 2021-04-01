@@ -1,15 +1,13 @@
 {
-    "abs_source": "/home/runner/work/UncheckyAds_git_FadeMind/UncheckyAds_git_FadeMind/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
     "hash": "de8962600506646fee229909502c644532b06a3fe128e21549c38a6c",
     "line_number": 11,
     "output_dir": "/home/runner/work/UncheckyAds_git_FadeMind/UncheckyAds_git_FadeMind/output/origin.list",
     "previous_hash": "de8962600506646fee229909502c644532b06a3fe128e21549c38a6c",
-    "rel_source": "origin.list",
-    "session_id": "e532ffd6b99f8b349ba813ab",
-    "source": "/home/runner/work/UncheckyAds_git_FadeMind/UncheckyAds_git_FadeMind/origin.list",
-    "subject": "/home/runner/work/UncheckyAds_git_FadeMind/UncheckyAds_git_FadeMind/origin.list",
+    "session_id": "e8ee1ce0c57bdafdf67c707b",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }
