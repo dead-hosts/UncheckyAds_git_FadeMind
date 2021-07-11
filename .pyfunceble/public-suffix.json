@@ -3152,6 +3152,7 @@
         "iwatsuki.saitama.jp",
         "iyo.ehime.jp",
         "izena.okinawa.jp",
+        "izu.shizuoka.jp",
         "izumi.kagoshima.jp",
         "izumi.osaka.jp",
         "izumiotsu.osaka.jp",
@@ -4929,7 +4930,6 @@
         "com.ms",
         "edu.ms",
         "gov.ms",
-        "izu.shizuoka.jp",
         "lab.ms",
         "minisite.ms",
         "net.ms",
@@ -6831,7 +6831,6 @@
         "al.eu.org",
         "altervista.org",
         "app.os.fedoraproject.org",
-        "app.os.stg.fedoraproject.org",
         "asso.eu.org",
         "at.eu.org",
         "au.eu.org",
@@ -7639,6 +7638,7 @@
         "nom.si"
     ],
     "site": [
+        "app.os.stg.fedoraproject.org",
         "barsy.site",
         "byen.site",
         "cloudera.site",
