@@ -6831,6 +6831,7 @@
         "al.eu.org",
         "altervista.org",
         "app.os.fedoraproject.org",
+        "app.os.stg.fedoraproject.org",
         "asso.eu.org",
         "at.eu.org",
         "au.eu.org",
@@ -7638,7 +7639,6 @@
         "nom.si"
     ],
     "site": [
-        "app.os.stg.fedoraproject.org",
         "barsy.site",
         "byen.site",
         "cloudera.site",
