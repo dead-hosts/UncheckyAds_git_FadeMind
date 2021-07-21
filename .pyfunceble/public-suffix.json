@@ -6467,7 +6467,6 @@
         "sykkylven.no",
         "sálat.no",
         "sálát.no",
-        "søgne.no",
         "sømna.no",
         "søndre-land.no",
         "sør-aurdal.no",
@@ -6690,7 +6689,6 @@
         "xn--sandnessjen-ogb.no",
         "xn--sandy-yua.no",
         "xn--seral-lra.no",
-        "xn--sgne-gra.no",
         "xn--skierv-uta.no",
         "xn--skjervy-v1a.no",
         "xn--skjk-soa.no",
@@ -7685,7 +7683,8 @@
         "me.so",
         "net.so",
         "org.so",
-        "sch.so"
+        "sch.so",
+        "xn--sgne-gra.no"
     ],
     "space": [
         "myfast.space",
