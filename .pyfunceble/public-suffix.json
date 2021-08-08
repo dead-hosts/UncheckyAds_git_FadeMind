@@ -1595,7 +1595,6 @@
         "blogspot.dk",
         "co.dk",
         "firm.dk",
-        "from.work",
         "myspreadshop.dk",
         "reg.dk",
         "store.dk"
@@ -8457,6 +8456,7 @@
         "that.win"
     ],
     "work": [
+        "from.work",
         "to.work"
     ],
     "ws": [
