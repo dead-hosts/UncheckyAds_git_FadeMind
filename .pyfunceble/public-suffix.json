@@ -7471,7 +7471,6 @@
         "witd.gov.pl",
         "wiw.gov.pl",
         "wlocl.pl",
-        "wloclawek.pl",
         "wodzislaw.pl",
         "wolomin.pl",
         "wroc.pl",
@@ -8118,7 +8117,8 @@
         "tel.tr",
         "tsk.tr",
         "tv.tr",
-        "web.tr"
+        "web.tr",
+        "wloclawek.pl"
     ],
     "trade": [
         "ybo.trade"
