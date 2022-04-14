@@ -5767,6 +5767,7 @@
         "nom.nc"
     ],
     "net": [
+        "1.azurestaticapps.net",
         "a.prod.fastly.net",
         "a.ssl.fastly.net",
         "adobeaemcloud.net",
@@ -7471,6 +7472,7 @@
         "witd.gov.pl",
         "wiw.gov.pl",
         "wlocl.pl",
+        "wloclawek.pl",
         "wodzislaw.pl",
         "wolomin.pl",
         "wroc.pl",
@@ -8117,8 +8119,7 @@
         "tel.tr",
         "tsk.tr",
         "tv.tr",
-        "web.tr",
-        "wloclawek.pl"
+        "web.tr"
     ],
     "trade": [
         "ybo.trade"
