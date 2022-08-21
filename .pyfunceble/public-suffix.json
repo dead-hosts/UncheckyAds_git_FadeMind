@@ -3874,6 +3874,7 @@
         "nemuro.hokkaido.jp",
         "nerima.tokyo.jp",
         "neyagawa.osaka.jp",
+        "ngo.ng",
         "nichinan.miyazaki.jp",
         "nichinan.tottori.jp",
         "niigata.jp",
@@ -5231,7 +5232,6 @@
         "bill.museum",
         "birdart.museum",
         "birthplace.museum",
-        "biz.ni",
         "bonn.museum",
         "boston.museum",
         "botanical.museum",
@@ -6028,6 +6028,7 @@
     ],
     "ni": [
         "ac.ni",
+        "biz.ni",
         "co.ni",
         "com.ni",
         "edu.ni",
