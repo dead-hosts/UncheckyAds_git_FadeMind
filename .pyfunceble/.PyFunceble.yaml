@@ -135,7 +135,6 @@ http_codes:
         - 226
         - 429
     self_managed: false
-http_retries: 3
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
