@@ -17,10 +17,10 @@
         "@FadeMind"
     ],
     "platform_container_id": null,
+    "platform_container_name": "uncheckyads_git_fademind",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
     "platform_optout": false,
     "platform_remote_source_id": null,
-    "platform_shortname": "uncheckyads_git_fademind",
     "raw_link": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/UncheckyAds/hosts",
     "repo": "dead-hosts/UncheckyAds_git_FadeMind",
     "start_datetime": "2020-12-27T22:32:08.367679",
