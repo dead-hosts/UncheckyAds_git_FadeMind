@@ -16,6 +16,7 @@
     "ping": [
         "@FadeMind"
     ],
+    "ping_enabled": false,
     "platform_container_id": null,
     "platform_container_name": "uncheckyads_git_fademind",
     "platform_description": "Imported from Dead-Hosts legacy infrastructure.",
